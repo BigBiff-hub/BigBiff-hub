@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BigBiff-hub
+- 👋 Hi, I’m Niall Hearne
 - 👀 I’m interested in python coding 
-- 🌱 I’m currently learning python, currently in Electronic and computer engineering in UL
+- 🌱 I’m currently learning python, currently in Electronic and computer engineering in UL witha focus on computer engineering 
 - 💞️ I’m looking to collaborate on anything interesting 
 - 📫 How to reach me niallhearne99@gmail.com
 
